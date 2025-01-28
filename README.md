@@ -1,4 +1,5 @@
-Various systems for HappinessMP servers.
+**Various systems for HappinessMP servers.**
 
 Make sure to understand what every single system is about by unveiling description of commit changes in the folder.
-![image](https://github.com/user-attachments/assets/7f3bea32-883c-4631-95e7-5a742c138516)
+![image](https://github.com/user-attachments/assets/4b0dcbe9-7cfd-4c68-b83d-e6403e97dcac)
+
