@@ -108,6 +108,12 @@ local function proxyCommand(type, proxyDistance, message)
     end
 end
 
+-- Server Side ---------------------------------------------------
+
+Events.Subscribe("proxySay", function(id, message)
+    Chat.SendMessage(id, message)
+end, true)
+
 -- Calling function  ---------------------------------------------
 
 elseif command[1] == "/local"  or command[1] == "/l" then
